@@ -8,3 +8,6 @@ Advanced swapping bot with one-click copy commands for easy setup.
 
 ```bash
 # Copy-paste these commands one by one:
+git clone https://github.com/Xvan122/Test-0G.git
+
+<button onclick="navigator.clipboard.writeText('git clone https://github.com/Xvan122/Test-0G.git')">Copy</button>
